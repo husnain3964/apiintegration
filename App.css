@@ -1,0 +1,20 @@
+.show{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+
+}
+
+.border{
+  width: 200px;
+  padding: 10px;
+  
+  
+}
+
+img{
+  padding: 10px;
+  text-align: center;
+  height: 100px;
+}
